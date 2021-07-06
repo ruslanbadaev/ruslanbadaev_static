@@ -54575,7 +54575,7 @@ p=new R.CZ(s,!0,new N.je(H.b([],t.fM),t.AM),H.b([],p))
 p.at$=!0
 m=new L.hC(o,f,p,H.b([],j),P.ev(k,l),new M.lS(m),new M.lS(m),!1,!1)
 m.yd()
-return new S.rP(new Y.Ao(n,S.a9U(i,m,t.uX),s),"My site app",r,!1,s)}}
+return new S.rP(new Y.Ao(n,S.a9U(i,m,t.uX),s),"Ruslan Badaev",r,!1,s)}}
 R.dI.prototype={
 gao:function(a){return this.a}}
 Y.a4u.prototype={}

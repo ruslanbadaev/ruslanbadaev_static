@@ -3,7 +3,7 @@ var express = require('express'),
   app = express();
 app.set('port', 80);
 
-app.use(express.static(path.join(__dirname, '')));
+app.use(express.static(path.join(__dirname, './public')));
 
 var server = app.listen(app.get('port'), function () {
   console.log('The server is running on http://localhost:' + app.get('port'));
