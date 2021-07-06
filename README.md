@@ -1,0 +1,1 @@
+# ruslanbadaev_static
